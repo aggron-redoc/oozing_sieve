@@ -1,0 +1,29 @@
+{
+  "name": "oozing_sieve",
+  "version": "1.0.0",
+  "description": "Gets parameters for each question, codeforces ids' of users and gives random questions in such a way that the users have not solved those questions before",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggron-redoc/oozing_sieve.git"
+  },
+  "keywords": [
+    "filter",
+    "new",
+    "questions",
+    "ooze"
+  ],
+  "author": "aggron-redoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggron-redoc/oozing_sieve/issues"
+  },
+  "homepage": "https://github.com/aggron-redoc/oozing_sieve#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
